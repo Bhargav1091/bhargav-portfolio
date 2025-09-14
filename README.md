@@ -51,3 +51,14 @@ Modern React-based portfolio showcasing projects and achievements
 - **28% improvement** in defect detection rates across applications
 
 ## 📈 Proven Results
+Before Framework → After Implementation
+Manual Testing: 70% → 15% (45% reduction)
+Regression Time: 10 days → 7 days (30% faster)
+Cross-app Testing: 48 hours → 12 hours (75% improvement)
+Production Defects: Baseline → 28% reduction
+
+---
+
+**See [STRUCTURE.md](STRUCTURE.md) for guided navigation & technical deep-dives**
+
+*Building quality at enterprise scale through intelligent automation*
